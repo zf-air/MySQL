@@ -1,0 +1,19 @@
+-- 成绩表测试数据
+insert into Score values('01' , '01' , 80);
+insert into Score values('01' , '02' , 90);
+insert into Score values('01' , '03' , 99);
+insert into Score values('02' , '01' , 70);
+insert into Score values('02' , '02' , 60);
+insert into Score values('02' , '03' , 80);
+insert into Score values('03' , '01' , 80);
+insert into Score values('03' , '02' , 80);
+insert into Score values('03' , '03' , 80);
+insert into Score values('04' , '01' , 50);
+insert into Score values('04' , '02' , 30);
+insert into Score values('04' , '03' , 20);
+insert into Score values('05' , '01' , 76);
+insert into Score values('05' , '02' , 87);
+insert into Score values('06' , '01' , 31);
+insert into Score values('06' , '03' , 34);
+insert into Score values('07' , '02' , 89);
+insert into Score values('07' , '03' , 98);
