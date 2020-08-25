@@ -1,4 +1,4 @@
-drop table course;
+
 -- 课程表
 CREATE TABLE `Course`(
 	`c_id`  VARCHAR(20), -- 课程号

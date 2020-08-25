@@ -1,4 +1,4 @@
-drop table score;
+
 -- 成绩表
 CREATE TABLE `Score`(
 	`s_id` VARCHAR(20),
